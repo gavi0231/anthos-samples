@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.8.1](https://github.com/GoogleCloudPlatform/anthos-samples/compare/v0.8.0...v0.8.1) (2022-04-28)
+
+
+### Bug Fixes
+
+* [anthos-bm-gcp-terraform] enforce min TF per README.md ([#268](https://github.com/GoogleCloudPlatform/anthos-samples/issues/268)) ([0e503f6](https://github.com/GoogleCloudPlatform/anthos-samples/commit/0e503f6eeaeda320c9dfb2727dd4d943cd4f26b0))
+* **deps:** update module github.com/gruntwork-io/terratest to v0.40.7 ([#242](https://github.com/GoogleCloudPlatform/anthos-samples/issues/242)) ([7211f5a](https://github.com/GoogleCloudPlatform/anthos-samples/commit/7211f5ab8d320435040d509a9ab4800b066de896))
+
 ## [0.8.0](https://github.com/GoogleCloudPlatform/anthos-samples/compare/v0.7.1...v0.8.0) (2022-04-08)
 
 
